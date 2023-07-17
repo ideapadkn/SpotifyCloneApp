@@ -1,0 +1,62 @@
+{
+  "name": "My Album",
+  "albumCover": "/images/albumCovers/myAlbum.png",
+  "releaseYear": "2023",
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Maroon 5",
+      "path": "/songs/Maroon 5 - Don't Wanna Know.mp3"
+    },
+    {
+      "id": 2,
+      "name": "deep",
+      "path": "/songs/deep-chills-run-free-feat-ivie.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fousheé",
+      "path": "/songs/Fousheé - Deep End.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Gary Jules",
+      "path": "/songs/Gary Jules - Mad world.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Get Lucky",
+      "path": "/songs/Get Lucky - Zloi Bala Remix.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Ben Phipps",
+      "path": "/songs/I Don t Think So   Ben Phipps.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Maroon 5",
+      "path": "/songs/Maroon 5 - Memories.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Vexento",
+      "path": "/songs/Voyage - Vexento.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Bri Tolani",
+      "path": "/songs/Why Do I (feat. Bri Tolani).mp3"
+    },
+    {
+      "id": 10,
+      "name": "Maroon 5",
+      "path": "/songs/Girls Like You   Maroon 5.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Anc D",
+      "path": "/songs/Hand in Glove - Anc D.mp3"
+    }
+  ]
+}
