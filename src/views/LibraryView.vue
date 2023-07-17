@@ -58,7 +58,7 @@ const playFunc = () => {
         <div class="absolute flex gap-4 items-center justify-start bottom-0 mb-1.5">
           <button type="button" class="p-1 rounded-full bg-white" @click="playFunc()">
             <Play v-if="!isPlaying" fillColor="#181818" :size="25"/>
-            <Play v-else fillColor="#181818" :size="25"/>
+            <Pause v-else fillColor="#181818" :size="25"/>
           </button>
           <button type="button">
             <Heart fillColor="#1bd760" :size="30"/>
