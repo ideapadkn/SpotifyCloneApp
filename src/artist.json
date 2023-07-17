@@ -1,6 +1,6 @@
 {
   "name": "My Album",
-  "albumCover": "/images/albumCovers/myAlbum.png",
+  "albumCover": "../public/images/albumCovers/myAlbum.png",
   "releaseYear": "2023",
   "tracks": [
     {

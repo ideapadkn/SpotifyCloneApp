@@ -167,5 +167,5 @@ let openMenu = ref(false);
     </div>
   </div>
 
-  <MusicPlayer />
+  <MusicPlayer v-if="currentTrack"/>
 </template>
