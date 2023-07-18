@@ -57,6 +57,31 @@
       "id": 11,
       "name": "Anc D",
       "path": "/songs/Hand in Glove - Anc D.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Arcade",
+      "path": "/songs/Duncan Laurence - Arcade.mp3"
+    },
+    {
+      "id": 13,
+      "name": "My Life Be Like Ooh Aah",
+      "path": "/songs/Grits feat. TobyMac  –  My Life Be Like Ooh Aah.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Read My Lips",
+      "path": "/songs/INNA, FariñA - Read My Lips.mp3"
+    },
+    {
+      "id": 15,
+      "name": "Anc D",
+      "path": "/songs/Just a Fool (NLSN Remix) - SRTW.mp3"
+    },
+    {
+      "id": 16,
+      "name": "Anc D",
+      "path": "/songs/Mert KIYAK - Gel (feat. Çağrı Kaymak).mp3"
     }
   ]
 }
