@@ -80,8 +80,23 @@
     },
     {
       "id": 16,
-      "name": "Mert KIYAK ",
+      "name": "Mert KIYAK",
       "path": "/songs/Mert KIYAK - Gel (feat. Çağrı Kaymak).mp3"
+    },
+    {
+      "id": 17,
+      "name": "Я схожу с ума",
+      "path": "/songs/Burito - Я схожу с ума.mp3"
+    },
+    {
+      "id": 18,
+      "name": "Moi Lolito",
+      "path": "/songs/moi lolito.mp3"
+    },
+    {
+      "id": 19,
+      "name": "It's ok",
+      "path": "/songs/Edith Whiskers - It s Ok (Slowed).mp3"
     }
   ]
 }
